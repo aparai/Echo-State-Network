@@ -1,4 +1,4 @@
 Echo-State-Network
 ==================
 
-Echo State Network (Reservoir Computing) Implementation in Python
+Soon to be published! Designed especially for financial applications but should work for others as well! ;)
